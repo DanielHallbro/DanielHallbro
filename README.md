@@ -24,6 +24,11 @@
 [+] LOCATION:   Stockholm, Sweden
 
 ┌──(daniel1337@kali)-[~]-[main | -]
+└─$ git remote -v
+origin  https://Surveyor-Consultant-&-Business-Owner.git (fetch)
+origin  https://Cybersecurity-Professional-In-The-Making.git (push)
+
+┌──(daniel1337@kali)-[~]-[main | -]
 └─$ grep -i "LIA" availability.log
 [*] Status: Actively Seeking Internships (LIA)
 [*] Period 1: August 24 - October 23, 2026

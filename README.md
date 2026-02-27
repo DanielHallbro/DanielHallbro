@@ -1,6 +1,7 @@
 <div align="center">
 
 # print("Hello World👋")
+### IT & Cybersecurity Student | Blue Team, Security Research & Threat Intel
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhallbro/)
 [![Resume](https://img.shields.io/badge/-Resume-D14836?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/DanielHallbro/Security_Profile_and_CV/blob/main/Daniel_Hallbro_CV-English.pdf)
@@ -13,15 +14,17 @@
 ### Professional Summary
 
 ```bash
-daniel@kali:~$ whoami
+┌──(daniel1337@kali)-[~]-[main | -]
+└─$ whoami
 [+] NAME:       Daniel Hållbro
 [+] ROLE:       IT & Cybersecurity Student
-[+] FOCUS:      Blue Team Operations, Threat Detection & Automation
+[+] FOCUS:      Blue Team Operations, Threat Intel & Security Research
 [+] BACKGROUND: Strong foundation in structural problem-solving and QA
 [+] APPROACH:   Methodical security analysis and incident response
 [+] LOCATION:   Stockholm, Sweden
 
-daniel@kali:~$ grep -i "LIA" availability.log
+┌──(daniel1337@kali)-[~]-[main | -]
+└─$ grep -i "LIA" availability.log
 [*] Status: Actively Seeking Internships (LIA)
 [*] Period 1: August 24 - October 23, 2026
 [*] Period 2: February 8 - May 28, 2027

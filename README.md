@@ -40,7 +40,7 @@ origin  https://Cybersecurity-Professional-In-The-Making.git (push)
 ### Security Research & Projects
 
 * **[IOC Analyzer v2.0.0](https://github.com/DanielHallbro/IOC_Analyzer)** A standalone Python framework automating the triage of Indicators of Compromise via API integration (VirusTotal, AbuseIPDB, IPinfo).
-* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** Deep dive into the Bitbucket Command Injection vulnerability, exploring exploitation mechanics and defensive measures.
+* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** Deep dive into the Bitbucket Argument Injection vulnerability, exploring exploitation mechanics and defensive measures.
 * **[Network Security Project](https://github.com/DanielHallbro/Network_Security_School_Project)** A collaborative academic project focusing on foundational network security principles and infrastructure defense.
 * **[OWASP Juice Shop Analysis](https://github.com/DanielHallbro/OWASP_Juice_Shop_Analysis)** Practical web application security assessments and vulnerability documentation.
 

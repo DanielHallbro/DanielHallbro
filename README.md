@@ -1,7 +1,7 @@
 <div align="center">
 
 # print("Hello World👋")
-### IT & Cybersecurity Student | Blue Team, Security Research & Threat Intel
+### IT & Cybersecurity Student | Security Research, Threat Intel & Offensive Security
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhallbro/)
 [![Resume](https://img.shields.io/badge/-Resume-D14836?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/DanielHallbro/Security_Profile_and_CV/blob/main/Daniel_Hallbro_CV-English.pdf)
@@ -18,9 +18,9 @@
 └─$ whoami
 [+] NAME:       Daniel Hållbro
 [+] ROLE:       IT & Cybersecurity Student
-[+] FOCUS:      Blue Team Operations, Threat Intel & Security Research
+[+] FOCUS:      Security Research, Threat Intelligence & Offensive Security
 [+] BACKGROUND: Strong foundation in structural problem-solving and QA
-[+] APPROACH:   Methodical security analysis and incident response
+[+] APPROACH:   Methodical vulnerability research and security analysis
 [+] LOCATION:   Stockholm, Sweden
 
 ┌──(daniel1337@kali)-[~]-[main | -]
@@ -30,17 +30,21 @@ origin  https://Cybersecurity-Professional-In-The-Making.git (push)
 
 ┌──(daniel1337@kali)-[~]-[main | -]
 └─$ grep -i "LIA" availability.log
-[*] Status: Actively Seeking Internships (LIA)
+[*] Status: LIA Secured @ Detectify (Period 1 & 2)
 [*] Period 1: August 24 - October 23, 2026
 [*] Period 2: February 8 - May 28, 2027
+[*] Know a company offering LIA? I can connect you with
+[*] talented classmates still seeking placements.
+[*] Reach out @ linkedin.com/in/danielhallbro
 ```
 
 ---
 
 ### Security Research & Projects
 
-* **[IOC Analyzer v2.0.0](https://github.com/DanielHallbro/IOC_Analyzer)** A standalone Python framework automating the triage of Indicators of Compromise via API integration (VirusTotal, AbuseIPDB, IPinfo).
-* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** Deep dive into the Bitbucket Argument Injection vulnerability, exploring exploitation mechanics and defensive measures.
+* **[IOC Analyzer v3.0.0](https://github.com/DanielHallbro/IOC_Analyzer)** A standalone Python framework automating the triage of Indicators of Compromise. Features JA4+ TLS fingerprinting, AI-powered verdicts (Gemini/Claude), and multi-source API integration (VirusTotal, AbuseIPDB, IPinfo).
+* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** *(Currently private — in use for recruitment process)* Deep dive into the Bitbucket Argument Injection vulnerability, exploring exploitation mechanics and defensive measures.
+* **[CVE-2025-29927 Next.js Middleware Bypass PoC](https://github.com/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC)** Proof of Concept demonstrating a middleware bypass in Next.js versions prior to 13.5.9.
 * **[Network Security Project](https://github.com/DanielHallbro/Network_Security_School_Project)** A collaborative academic project focusing on foundational network security principles and infrastructure defense.
 * **[OWASP Juice Shop Analysis](https://github.com/DanielHallbro/OWASP_Juice_Shop_Analysis)** Practical web application security assessments and vulnerability documentation.
 

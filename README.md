@@ -43,8 +43,8 @@ origin  https://Cybersecurity-Professional-In-The-Making.git (push)
 ### Security Research & Projects
 
 * **[IOC Analyzer v3.0.0](https://github.com/DanielHallbro/IOC_Analyzer)** A standalone Python framework automating the triage of Indicators of Compromise. Features JA4+ TLS fingerprinting, AI-powered verdicts (Gemini/Claude), and multi-source API integration (VirusTotal, AbuseIPDB, IPinfo).
-* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** *(Currently private — in use for recruitment process)* Deep dive into the Bitbucket Argument Injection vulnerability, exploring exploitation mechanics and defensive measures.
-* **[CVE-2025-29927 Next.js Middleware Bypass PoC](https://github.com/DanielHallbro/CVE-2025-29927-Nextjs-Bypass-PoC)** Proof of Concept demonstrating a middleware bypass in Next.js versions prior to 13.5.9.
+* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** Deep dive into the Bitbucket Argument Injection vulnerability, exploring exploitation mechanics and defensive measures.
+* **[AWS Cloud Security Project](https://github.com/DanielHallbro/AWS_Cloud_Security_Project)** Security analysis and redesign of a fictional SaaS company's AWS environment following a data breach. Covers defense-in-depth architecture, IAM separation of duties, and verified cost modeling against GDPR and operational risk.
 * **[Network Security Project](https://github.com/DanielHallbro/Network_Security_School_Project)** A collaborative academic project focusing on foundational network security principles and infrastructure defense.
 * **[OWASP Juice Shop Analysis](https://github.com/DanielHallbro/OWASP_Juice_Shop_Analysis)** Practical web application security assessments and vulnerability documentation.
 
@@ -58,24 +58,36 @@ origin  https://Cybersecurity-Professional-In-The-Making.git (push)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 ![OSI Model](https://img.shields.io/badge/-OSI%20Model-008080?style=flat&logo=databricks&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
 ![Netcat](https://img.shields.io/badge/-Netcat-000000?style=flat&logo=gnuterminal&logoColor=white)
+
 ![IDS/IPS](https://img.shields.io/badge/-IDS%2FIPS-DC143C?style=flat&logo=cisco&logoColor=white)
-![NGFW](https://img.shields.io/badge/-NGFW-FF6600?style=flat&logo=paloaltonetworks&logoColor=white)
+![NGFW](https://img.shields.io/badge/-NGFW-DC143C?style=flat&logo=pfsense&logoColor=white)
+
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/-Gobuster-FF4500?style=flat&logo=kalilinux&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/-Nuclei-0080FF?style=flat&logo=go&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 ![JA4](https://img.shields.io/badge/-JA4-8A2BE2?style=flat&logo=gnuterminal&logoColor=white)
+
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-1E1E1E?style=flat&logo=json&logoColor=white)
 ![IPinfo](https://img.shields.io/badge/-IPinfo-3498DB?style=flat&logo=internetexplorer&logoColor=white)

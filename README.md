@@ -51,43 +51,62 @@ origin  https://Cybersecurity-Professional-In-The-Making.git (push)
 ---
 
 ### Technical Arsenal
-
 #### Current Stack & Skill Development
 
+
+#### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-![OSI Model](https://img.shields.io/badge/-OSI%20Model-008080?style=flat&logo=databricks&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
-![Netcat](https://img.shields.io/badge/-Netcat-000000?style=flat&logo=gnuterminal&logoColor=white)
-
-![IDS/IPS](https://img.shields.io/badge/-IDS%2FIPS-DC143C?style=flat&logo=cisco&logoColor=white)
-![NGFW](https://img.shields.io/badge/-NGFW-DC143C?style=flat&logo=pfsense&logoColor=white)
-
+#### Security & Offensive Tools
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/-Gobuster-FF4500?style=flat&logo=kalilinux&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/-Nuclei-0080FF?style=flat&logo=go&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
+![Netcat](https://img.shields.io/badge/-Netcat-000000?style=flat&logo=gnuterminal&logoColor=white)
 ![JA4](https://img.shields.io/badge/-JA4-8A2BE2?style=flat&logo=gnuterminal&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 
+#### Threat Intelligence
 ![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
 ![AbuseIPDB](https://img.shields.io/badge/-AbuseIPDB-1E1E1E?style=flat&logo=json&logoColor=white)
 ![IPinfo](https://img.shields.io/badge/-IPinfo-3498DB?style=flat&logo=internetexplorer&logoColor=white)
+
+#### Infrastructure & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/-IDS%2FIPS-DC143C?style=flat&logo=cisco&logoColor=white)
+![NGFW](https://img.shields.io/badge/-NGFW-DC143C?style=flat&logo=pfsense&logoColor=white)
+![OSI Model](https://img.shields.io/badge/-OSI%20Model-008080?style=flat&logo=databricks&logoColor=white)
+
+#### Languages & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+#### Dev Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+#### Data, ML & Observability
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?style=flat&logo=python&logoColor=white)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat&logo=python&logoColor=white)

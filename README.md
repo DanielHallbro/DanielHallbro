@@ -3,6 +3,7 @@
 # print("Hello World👋")
 ### IT & Cybersecurity Student | Security Research, Threat Intel & Offensive Security
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4ade80?style=flat&logo=github&logoColor=black)](https://danielhallbro.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhallbro/)
 [![Resume](https://img.shields.io/badge/-Resume-D14836?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/DanielHallbro/Security_Profile_and_CV/blob/main/Daniel_Hallbro_CV-English.pdf)
 [![Email](https://img.shields.io/badge/-Contact_Me-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:daniel.hallbro@gmail.com)
@@ -19,6 +20,7 @@
 [+] NAME:       Daniel Hållbro
 [+] ROLE:       IT & Cybersecurity Student
 [+] FOCUS:      Security Research, Threat Intelligence & Offensive Security
+[+] PORTFOLIO:  danielhallbro.github.io
 [+] BACKGROUND: Strong foundation in structural problem-solving and QA
 [+] APPROACH:   Methodical vulnerability research and security analysis
 [+] LOCATION:   Stockholm, Sweden

@@ -44,10 +44,10 @@ origin  https://Cybersecurity-Professional-In-The-Making.git (push)
 
 ### Security Research & Projects
 
-* **[IOC Analyzer v3.0.0](https://github.com/DanielHallbro/IOC_Analyzer)** A standalone Python framework automating the triage of Indicators of Compromise. Features JA4+ TLS fingerprinting, AI-powered verdicts (Gemini/Claude), and multi-source API integration (VirusTotal, AbuseIPDB, IPinfo).
-* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** Deep dive into the Bitbucket Argument Injection vulnerability, exploring exploitation mechanics and defensive measures.
-* **[AWS Cloud Security Project](https://github.com/DanielHallbro/AWS_Cloud_Security_Project)** Security analysis and redesign of a fictional SaaS company's AWS environment following a data breach. Covers defense-in-depth architecture, IAM separation of duties, and verified cost modeling against GDPR and operational risk.
-* **[Network Security Project](https://github.com/DanielHallbro/Network_Security_School_Project)** A collaborative academic project focusing on foundational network security principles and infrastructure defense.
+* **[IOC Analyzer v3.0.0](https://github.com/DanielHallbro/IOC_Analyzer)** Python framework automating IOC triage, with JA4+ TLS fingerprinting, AI-powered verdicts, and multi-source threat intel integration.
+* **[Vulnerability Analysis: CVE-2022-36804](https://github.com/DanielHallbro/CVE-2022-36804-Bitbucket-RCE-Analysis)** Deep dive into the Bitbucket Argument Injection vulnerability and its exploitation mechanics.
+* **[AWS Cloud Security Project](https://github.com/DanielHallbro/AWS_Cloud_Security_Project)** Security redesign of a fictional SaaS company's AWS environment post-breach, covering IAM separation and GDPR risk modeling.
+* **[Network Intrusion Detection - MLOps Pipeline](https://github.com/DanielHallbro/MLOps_Pipeline)** End-to-end MLOps pipeline on UNSW-NB15, covering Airflow retraining, MLflow tracking, FastAPI serving, and Kubernetes autoscaling.
 * **[OWASP Juice Shop Analysis](https://github.com/DanielHallbro/OWASP_Juice_Shop_Analysis)** Practical web application security assessments and vulnerability documentation.
 
 ---
